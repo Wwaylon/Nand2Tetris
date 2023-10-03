@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_And16.v,1696373611,verilog,,,,tb_And16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_Not16.v,1696290668,verilog,,,,tb_Not16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_Or16.v,1696373688,verilog,,,,tb_Or16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/And.v,1696289548,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/And16.v,,And,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/And16.v,1696296808,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Nand.v,,And16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Nand.v,1695772900,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Not.v,,Nand,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Not.v,1696289635,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_And16.v,,Not,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Not16.v,1696290757,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_Not16.v,,Not16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Or.v,1696289662,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Or16.v,,Or,,,,,,,,
+C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Or16.v,1696373103,verilog,,C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_Or16.v,,Or16,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sim_1/new/tb_And.v,1695770430,verilog,,,,tb_And,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sim_1/new/tb_DMUX.v,1696289038,verilog,,,,tb_DMUX,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sim_1/new/tb_MUX.v,1695783198,verilog,,,,tb_MUX,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sim_1/new/tb_Or.v,1695771903,verilog,,,,tb_Or,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sources_1/new/DMUX.v,1696288558,verilog,,C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sources_1/new/Nand.v,,DMUX,,,,,,,,
+C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sources_1/new/MUX.v,1695783040,verilog,,C:/Users/Waylon/vivado_projects/Project-1/Project-1.srcs/sources_1/new/Nand.v,,MUX,,,,,,,,

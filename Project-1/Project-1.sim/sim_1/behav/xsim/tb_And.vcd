@@ -1,0 +1,54 @@
+$date
+   Tue Sep 26 16:17:54 2023
+$end
+$version
+  2019.1
+$end
+$timescale
+  1ps
+$end
+$scope module tb_And $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var wire 1 # out $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 # out $end
+$var wire 1 & nand_out $end
+$scope module Nand $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 & out $end
+$upscope $end
+$scope module Not $end
+$var wire 1 & in $end
+$var wire 1 # out $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+1&
+$end
+#10000
+1"
+1%
+1&
+#20000
+1!
+0"
+1$
+0%
+1&
+#30000
+1"
+1#
+1%
+0&

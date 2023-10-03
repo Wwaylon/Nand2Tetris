@@ -1,0 +1,8 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Test case 1 success
+Test case 2 success
+Test case 3 success
+Test case 4 success
+Test case 5 success
+$finish called at time : 50 ns : File "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_And16.v" Line 41

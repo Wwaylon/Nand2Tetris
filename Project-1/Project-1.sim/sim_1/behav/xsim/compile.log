@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/And.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/And16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Nand.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Nand
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sources_1/new/Not.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Not
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Waylon/vivado_projects/Nand2TetrisProjects/Project-1/Project-1.srcs/sim_1/new/tb_And16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_And16
